@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since DOTA 1<br>📚 I'm currently learning in NVC<br>🎯 Goals;None<br>🎲 Fun fact: None</p>
+<p align="center">✨ Creating bugs since DOTA 1<br>📚 I'm currently learning in NVC<br>🎯 Goals;None<br>🎲 Fun fact: I Love Making Virus</p>
 
 ###
 
