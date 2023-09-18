@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">John Anthony</p>
+<h2 align="center">John Anthony</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since DOTA 1<br>📚 I'm currently learning in NVC<br>🎯 Goals: ...<br>🎲 Fun fact:</p>
+<p align="center">✨ Creating bugs since DOTA 1<br>📚 I'm currently learning in NVC<br>🎯 Goals;None<br>🎲 Fun fact: None</p>
 
 ###
 
@@ -38,6 +38,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<br clear="both">
+
+<p align="left">Bye World!!</p>
 
 ###
